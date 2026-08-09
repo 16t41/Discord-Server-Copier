@@ -1,5 +1,5 @@
 # Discord Server Copier
-a Tool That Copies Discord Servers (requires your discord token)
+**a Tool That Copies Discord Servers (requires your discord token)**
 
 **make a ticket in my discord server or DM me on discord**
 
