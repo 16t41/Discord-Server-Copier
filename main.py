@@ -10,8 +10,8 @@ import base64
 
 # ===== CONFIGURATION =====
 YOUR_TOKEN = "Your_Discord_Token"  # <--- PASTE YOUR TOKEN HERE
-SOURCE_SERVER = "SERVER_ID" # <--- PASTE THE SERVER ID YOU WANT TO CLONE
-TARGET_SERVER = "SERVER_ID"  # <--- PASTE YOUR SERVER ID HERE
+SOURCE_SERVER = "Server_ID" # <--- PASTE THE SERVER ID YOU WANT TO CLONE
+TARGET_SERVER = "Server_ID"  # <--- PASTE YOUR SERVER ID HERE
 # =========================
 
 ssl_context = ssl.create_default_context()
